@@ -23,5 +23,8 @@ def find_the_cheese(array)
   
   array.find do |element|
     element.any? 
+    if false 
+      nil
   end
+end
 end
