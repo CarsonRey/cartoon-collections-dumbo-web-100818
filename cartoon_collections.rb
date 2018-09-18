@@ -22,3 +22,4 @@ def find_the_cheese(array)
   cheese_types.include?(element)
   end
 end
+# check 'cheese_types' for elements in 'array', not the other way arround. 
