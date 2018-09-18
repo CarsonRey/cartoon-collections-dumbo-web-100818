@@ -22,7 +22,7 @@ def find_the_cheese(array)
     element.include?(cheese_types.to_s)
   end
   if true 
-      element
+      
     else
       nil
 end
