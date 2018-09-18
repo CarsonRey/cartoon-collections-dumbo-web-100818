@@ -22,7 +22,7 @@ def find_the_cheese(array)
   
   
   array.find do |element|
-    element.any? 
+    element
     if false 
       nil
   end
