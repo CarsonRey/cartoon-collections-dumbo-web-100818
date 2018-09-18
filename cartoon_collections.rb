@@ -21,8 +21,8 @@ def find_the_cheese(array)
   there_is_cheese = array.find do |element|
     element.include?(cheese_types.to_s)
   end
-  if true 
-      there_is_cheese
+  if there_is_cheese == true 
+      
     else
       nil
 end
